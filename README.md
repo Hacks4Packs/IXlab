@@ -12,4 +12,4 @@ pfSense:
 Lab is running on 2.6 
 https://www.pfsense.org/download/
 
-
+Implementing SecurityOnion instead of SNORT/SPLUNK - progress
